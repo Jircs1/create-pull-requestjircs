@@ -34,7 +34,7 @@
     "@octokit/core": "^6.1.5",
     "@octokit/plugin-paginate-rest": "^5.0.1",
     "@octokit/plugin-rest-endpoint-methods": "^6.8.1",
-    "https-proxy-agent": "^5.0.1",
+    "https-proxy-agent": "^7.0.4",
     "proxy-from-env": "^1.1.0",
     "uuid": "^9.0.1"
   },
